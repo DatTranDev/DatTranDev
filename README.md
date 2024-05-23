@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 A student at University of Information Technology<br>📚 I'm currently learning Software Engineering<br>💬 Ask me about anything<br>⚡ I'm also Content Creator, Editor ...</p>
+<p align="left">🔭 A student at University of Information Technology<br>📚 I'm currently learning Software Engineering<br>💬 Ask me about anything<br>⚡ I'm also Editor ...</p>
 
 ###
 
